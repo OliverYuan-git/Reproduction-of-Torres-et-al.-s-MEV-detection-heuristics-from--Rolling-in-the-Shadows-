@@ -1,0 +1,24 @@
+[
+  {
+    "label": "pre_EIP4844",
+    "description": "Pre-EIP-4844 (Feb 2024, blocks 176351748\u2013176379410)",
+    "total_swaps": 10843,
+    "total_transfers": 83686,
+    "arbitrages_found": 136,
+    "arb_profitable": 136,
+    "arb_total_profit_usd": 926.8279948547411,
+    "arb_total_gas_usd": 23.351646950947995,
+    "sandwiches_found": 0
+  },
+  {
+    "label": "post_EIP4844",
+    "description": "Post-EIP-4844 (Apr 2024, blocks 201152729\u2013201167067)",
+    "total_swaps": 39754,
+    "total_transfers": 150000,
+    "arbitrages_found": 658,
+    "arb_profitable": 658,
+    "arb_total_profit_usd": 635.4248740642719,
+    "arb_total_gas_usd": 7.791446134928354,
+    "sandwiches_found": 0
+  }
+]

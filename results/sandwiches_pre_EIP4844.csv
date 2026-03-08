@@ -1,0 +1,1 @@
+block_number,block_time,attacker_address,attacker_tx1_hash,attacker_tx1_index,victim_tx_hashes,victim_tx_indices,attacker_tx2_hash,attacker_tx2_index,pool,token_address
